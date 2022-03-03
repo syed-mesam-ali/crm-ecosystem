@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Steps to Create and Run the Project
+## create project by using "npm create-react-app crm-ecosystem" in cmd
+## download my project files, copy and paste it in the "crm-ecosystem" folder 
+## run the project by going inside the directory -> "cd crm-ecosystem"
+##                                               -> "npm start"
+## project is ready to work in browser in local host
