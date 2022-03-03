@@ -1,0 +1,49 @@
+.MainDiv {
+  margin: 15px;
+  /*height: calc(100vh - 200px);*/
+  /* background-color: #323b44; */
+}
+.headerDiv {
+  margin: 15px 0px;
+}
+.titleDiv {
+  position: absolute;
+  z-index: 20;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 98%;
+  height: 150px;
+}
+.titleDiv span {
+  text-align: center;
+  font-size: 55px;
+  color: #055573;
+}
+.headerDiv {
+  height: 150px;
+  background-image: url(Banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  z-index: 15;
+  position: relative;
+  opacity: 0.4;
+}
+.tableDiv {
+  margin-bottom: 15px;
+}
+.commonCheck {
+  position: relative;
+  left: 8px;
+}
+.btn-theme-apply {
+  position: absolute;
+  right: 280px;
+  z-index: 999999;
+}
+.theme-for-tr {
+  background-color: #a5dfe5 !important;
+}
