@@ -73,6 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Steps to Create and Run the Project
 ## 1. create project by using "npm create-react-app crm-ecosystem" in cmd
 ## 2. download my project files, copy and paste it in the "crm-ecosystem" folder 
-## 3. run the project by going inside the directory -> "cd crm-ecosystem"
-##                                               -> "npm start"
+## 3. run the project by going inside the directory -> "cd crm-ecosystem"  -> "npm start"
 ## 4. project is ready to work in browser in local host
